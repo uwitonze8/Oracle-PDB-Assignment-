@@ -1,6 +1,6 @@
-> Oracle PDB and OEM Configuration
+> Oracle PDB and OEM Configuration.
 
-> Oracle PDB and OEM Configuration
+> Oracle PDB and OEM Configuration.
 
 > Student Information
 
