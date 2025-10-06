@@ -124,6 +124,7 @@ Solution: Re-entered correct SYS password
 
 
 > issue4
+
 Issue: ORA-65096 error
 
 Cause: User creation attempted in root container
