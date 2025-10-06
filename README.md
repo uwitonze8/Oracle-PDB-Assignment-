@@ -95,12 +95,15 @@ Schema Visible: pacific_PLSQLAUCA_26983
 
 > Issues Encountered and Solutions
 
+> issue1
+
 Issue: OEM not loading
 
 Cause: Listener not started
 
 Solution: Ran lsnrctl start
 
+>issue 2
 
 Issue: PDB not opening
 
@@ -110,6 +113,7 @@ Solution: Executed ALTER PLUGGABLE DATABASE ALL OPEN;
 
 
 
+> issue 3
 
 Issue: Login failed
 
@@ -119,7 +123,7 @@ Solution: Re-entered correct SYS password
 
 
 
-
+> issue4
 Issue: ORA-65096 error
 
 Cause: User creation attempted in root container
