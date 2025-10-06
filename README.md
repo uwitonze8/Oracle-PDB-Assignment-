@@ -1,18 +1,26 @@
 > Oracle PDB and OEM Configuration
+
 > Oracle PDB and OEM Configuration
 
 > Student Information
-Name: uwitonze pacific  
+
+Name: uwitonze pacific
+
 Student ID: 26983  
-Course: PL/SQL  
-Assignment Title: Oracle PDB and OEM Configuration  
+
+Course: Database Development with PL/SQL (INSY 8311).
+ 
+Assignment Title: Oracle PDB and OEM Configuration 
+
 Date: 06/10/2025 
 
 > Overview of Tasks
 This report summarizes the practical exercises conducted on October 06, 2025, using Oracle Database 21c Express Edition. The tasks focused on creating, managing, and monitoring pluggable databases (PDBs), as well as configuring Oracle Enterprise Manager (OEM) for monitoring. The activities included:
 
 Task 1: Create a new Pluggable Database (PDB)
+
 Task 2: Create and delete a PDB
+
 Task 3: Configure and access Oracle Enterprise Manager (OEM)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
