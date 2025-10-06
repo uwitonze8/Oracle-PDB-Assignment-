@@ -98,6 +98,8 @@ Schema Visible: pacific_PLSQLAUCA_26983
 
 > Issues Encountered and Solutions
 
+During the Oracle PDB and OEM Configuration lab, several challenges were encountered. Each issue was analyzed to identify its cause, and appropriate solutions were applied to resolve them efficiently. The main issues and their corresponding resolutions are summarized below:
+
 > issue1
 
 Issue: OEM not loading
