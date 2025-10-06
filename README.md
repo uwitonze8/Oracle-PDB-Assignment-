@@ -1,14 +1,14 @@
-# Oracle PDB and OEM Configuration
-# Oracle PDB and OEM Configuration
+> Oracle PDB and OEM Configuration
+> Oracle PDB and OEM Configuration
 
-## Student Information
+> Student Information
 Name: uwitonze pacific  
 Student ID: 26983  
 Course: PL/SQL  
 Assignment Title: Oracle PDB and OEM Configuration  
 Date: 06/10/2025 
 
-## Overview of Tasks
+> Overview of Tasks
 This report summarizes the practical exercises conducted on October 06, 2025, using Oracle Database 21c Express Edition. The tasks focused on creating, managing, and monitoring pluggable databases (PDBs), as well as configuring Oracle Enterprise Manager (OEM) for monitoring. The activities included:
 
 Task 1: Create a new Pluggable Database (PDB)
@@ -16,7 +16,7 @@ Task 2: Create and delete a PDB
 Task 3: Configure and access Oracle Enterprise Manager (OEM)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-## Task 1: Creating a New Pluggable Database (PDB)
+> Task 1: Creating a New Pluggable Database (PDB)
 
 A new pluggable database was created using the following name:
 
@@ -39,7 +39,7 @@ PDB creation confirmation attached below as shown on the image.
 
 <img width="1903" height="966" alt="image" src="https://github.com/user-attachments/assets/34ac8db4-1430-4a92-b1a2-e62032e866de" />
 
-task2: Creating and Deleting a PDB
+> task2: Creating and Deleting a PDB
 
 FirstTwoLettersOfName_to_delete_pdb_StudentID
 
@@ -49,11 +49,15 @@ pa_to_delete_pdb_26983
 
 After creating the PDB, it was successfully deleted to demonstrate proper lifecycle management.
 
+the below screenshoot below shows Creation confirmation attached.
+
 <img width="1864" height="550" alt="image" src="https://github.com/user-attachments/assets/e0c0ed0e-4f6b-42e2-818d-39a8712a34a6" />
+
+the screenshoot  below shows the Deletion confirmation .
 
 <img width="1353" height="461" alt="image" src="https://github.com/user-attachments/assets/a5b1df38-428d-4900-bbf5-56b528a73d19" />
 
-Task 3: Oracle Enterprise Manager (OEM) Configuration
+> Task 3: Oracle Enterprise Manager (OEM) Configuration
 
 Oracle Enterprise Manager (EM Express) was configured and accessed via:
 
@@ -81,7 +85,7 @@ Schema Visible: pacific_PLSQLAUCA_26983
 <img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/35cc507c-c988-47f5-82fb-81a52bf67fe5" />
 
 
-## Issues Encountered and Solutions
+> Issues Encountered and Solutions
 
 Issue: OEM not loading
 
@@ -118,6 +122,6 @@ Solution: Switched to PDB with ALTER SESSION ...;
 
 
 
-Conclusion
+> Conclusion
 
 ll tasks were successfully completed on October 06, 2025. This exercise enhanced my understanding of Oracle multitenant architecture, including PDB creation, deletion, and monitoring via OEM. It also reinforced database administration and PL/SQL skills.
